@@ -6,8 +6,10 @@ print(datetime.now())
 
 print("Hello second")
 
-print("Ammy sssss");
+print("Ammy sssss")
 print("pattarawadee")
 print("MooMiLD")
 print("champ")
 print("Hello from Chanjira's Branch")
+
+print("12345")
