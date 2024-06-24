@@ -11,7 +11,3 @@ print("pattarawadee")
 print("MooMiLD")
 print("champ")
 print("Hello from Chanjira's Branch")
-
-
-
-print("1234")
